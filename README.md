@@ -24,7 +24,7 @@ A powerful, lightweight command-line backup utility written in TypeScript. BackK
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/backkit.git
+git clone https://github.com/avinash55o/backkit.git
 cd backkit
 ```
 
@@ -256,13 +256,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-ISC
-
-## Acknowledgments
-
-This project is a TypeScript port of the [goback](https://github.com/ppriyankuu/goback) Go project.
 
 ## Support
 
