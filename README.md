@@ -38,30 +38,6 @@ npm install
 npm run build
 ```
 
-### Global Installation (Optional)
-
-To use `backkit` as a global command:
-
-1. Update `package.json` to include:
-```json
-{
-  "bin": {
-    "backkit": "./dist/cmd/main.js"
-  }
-}
-```
-
-2. Build and install globally:
-```bash
-npm run build
-npm install -g .
-```
-
-Now you can use `backkit` from anywhere:
-```bash
-backkit -s "source" -d "destination"
-```
-
 ## Usage
 
 ### Basic Backup
@@ -263,4 +239,4 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-**Built with TypeScript and Node.js** 🚀
+**Built with TypeScript and Node.js**
